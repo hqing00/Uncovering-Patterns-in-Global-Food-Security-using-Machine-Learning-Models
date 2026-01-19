@@ -25,9 +25,8 @@ There are 3 datasets was obtained:
 - Implement early warning systems or real-time dashboard to monitor and mitigate supply shocks.
 
 ## Team Members
-1. Callum Joseph Smith
-2. Chadli Rayane
+1. Liew Cai Tong
+2. Lam Jun Yan
 3. Chew Hong Ern
-4. Lim Chun Keat
-5. Yap Hui Qing
-6. Yeoh Li Ting
+4. Yap Hui Qing
+5. Yeoh Li Ting
